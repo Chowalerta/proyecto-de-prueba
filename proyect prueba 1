@@ -1,0 +1,48 @@
+<h1> resetas casera  </h1>
+<html>
+    <style>
+        body{
+            background-color: firebrick;
+            
+        }
+        #titulo 
+           {
+        color: deepskyblue
+            
+        }
+            
+    </style>    
+        
+<body>
+    <p>
+
+        <div id="parrafo">
+            <p>resetas faciles y rapidas. </p>
+        </div>
+
+        <div id="parrafo2">
+            <p>especialidad de hoy: dia de madres</p>
+        </div>
+
+        <h2 id="titulo"> lista del dia de madres </h2>
+        <ul>
+            <li>cafe</li>
+            <br>
+            <li>carne</li>
+            <br>
+            <li>leche</li>
+            <br>
+            <li>hielo</li>
+        </ul>
+
+        <h3>video juegos favoritos</h3>
+        <ul>
+            <li> <a href="https://www.callofduty.com/">call of duty</a></li>
+            <li> <a href="https://www.smitegame.com/">smite</a></li>
+            <li> <a href="http://robocraftgame.com/">robocraft</a></li>
+            <li><a href="http://www.deadbydaylight.com/">dead by daylight</a></li>
+
+        </ul>
+
+</body>
+</html>
